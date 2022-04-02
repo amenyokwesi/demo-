@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\bin\Debug\bless project1234.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\bin\Debug\bless project1234.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\bin\Debug\bless project1234.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\bin\Debug\bless project1234.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\obj\Debug\bless project1234.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\obj\Debug\bless_project1234.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\obj\Debug\bless_project1234.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\obj\Debug\bless project1234.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\obj\Debug\bless project1234.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\obj\Debug\bless project1234.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\bless project1234\bless project1234\obj\Debug\bless project1234.pdb

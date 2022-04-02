@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\bin\Debug\hypotenuse calculator.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\obj\Debug\hypotenuse calculator.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\obj\Debug\hypotenuse_calculator.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\obj\Debug\hypotenuse_calculator.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\obj\Debug\hypotenuse calculator.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\obj\Debug\hypotenuse calculator.xml
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\bin\Debug\hypotenuse calculator.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\bin\Debug\hypotenuse calculator.pdb
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\bin\Debug\hypotenuse calculator.xml
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\obj\Debug\hypotenuse calculator.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\hypotenuse calculator\hypotenuse calculator\obj\Debug\hypotenuse calculator.pdb

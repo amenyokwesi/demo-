@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\bin\Debug\Counter Display.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\bin\Debug\Counter Display.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\bin\Debug\Counter Display.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\bin\Debug\Counter Display.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\obj\Debug\Counter Display.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\obj\Debug\Counter_Display.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\obj\Debug\Counter_Display.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\obj\Debug\Counter Display.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\obj\Debug\Counter Display.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\obj\Debug\Counter Display.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Counter Display\Counter Display\obj\Debug\Counter Display.pdb

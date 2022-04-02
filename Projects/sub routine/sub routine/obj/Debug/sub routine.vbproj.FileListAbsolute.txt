@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\bin\Debug\sub routine.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\bin\Debug\sub routine.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\bin\Debug\sub routine.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\bin\Debug\sub routine.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\obj\Debug\sub routine.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\obj\Debug\sub_routine.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\obj\Debug\sub_routine.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\obj\Debug\sub routine.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\obj\Debug\sub routine.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\obj\Debug\sub routine.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\sub routine\sub routine\obj\Debug\sub routine.pdb

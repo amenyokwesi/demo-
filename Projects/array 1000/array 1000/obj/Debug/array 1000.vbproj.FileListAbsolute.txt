@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\bin\Debug\array 1000.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\bin\Debug\array 1000.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\bin\Debug\array 1000.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\bin\Debug\array 1000.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\obj\Debug\array 1000.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\obj\Debug\array_1000.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\obj\Debug\array_1000.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\obj\Debug\array 1000.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\obj\Debug\array 1000.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\obj\Debug\array 1000.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\array 1000\array 1000\obj\Debug\array 1000.pdb

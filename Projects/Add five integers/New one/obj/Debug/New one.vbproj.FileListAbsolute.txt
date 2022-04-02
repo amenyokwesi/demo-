@@ -1,0 +1,12 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\New one\New one\bin\Debug\New one.exe.config
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\bin\Debug\New one.exe.config
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\bin\Debug\New one.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\bin\Debug\New one.pdb
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\bin\Debug\New one.xml
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\obj\Debug\New one.vbprojResolveAssemblyReference.cache
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\obj\Debug\New_one.Form1.resources
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\obj\Debug\New_one.Resources.resources
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\obj\Debug\New one.vbproj.GenerateResource.Cache
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\obj\Debug\New one.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\obj\Debug\New one.xml
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\Add five integers\New one\obj\Debug\New one.pdb

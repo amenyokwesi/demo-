@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\bin\Debug\my custom kitchen.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\obj\Debug\my custom kitchen.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\obj\Debug\my_custom_kitchen.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\obj\Debug\my_custom_kitchen.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\obj\Debug\my custom kitchen.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\bin\Debug\my custom kitchen.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\bin\Debug\my custom kitchen.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\bin\Debug\my custom kitchen.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\obj\Debug\my custom kitchen.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\obj\Debug\my custom kitchen.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\my custom kitchen\my custom kitchen\obj\Debug\my custom kitchen.pdb

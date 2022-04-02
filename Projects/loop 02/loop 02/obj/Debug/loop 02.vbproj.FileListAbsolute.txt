@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\bin\Debug\loop 02.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\bin\Debug\loop 02.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\bin\Debug\loop 02.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\bin\Debug\loop 02.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\obj\Debug\loop 02.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\obj\Debug\loop_02.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\obj\Debug\loop_02.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\obj\Debug\loop 02.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\obj\Debug\loop 02.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\obj\Debug\loop 02.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\loop 02\loop 02\obj\Debug\loop 02.pdb

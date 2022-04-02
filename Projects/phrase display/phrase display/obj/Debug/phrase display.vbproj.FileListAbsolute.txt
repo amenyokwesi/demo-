@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\bin\Debug\phrase display.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\bin\Debug\phrase display.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\bin\Debug\phrase display.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\bin\Debug\phrase display.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\obj\Debug\phrase display.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\obj\Debug\phrase_display.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\obj\Debug\phrase_display.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\obj\Debug\phrase display.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\obj\Debug\phrase display.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\obj\Debug\phrase display.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase display\phrase display\obj\Debug\phrase display.pdb

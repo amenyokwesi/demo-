@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\bin\Debug\Bless programmimg.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\bin\Debug\Bless programmimg.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\bin\Debug\Bless programmimg.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\bin\Debug\Bless programmimg.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\obj\Debug\Bless programmimg.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\obj\Debug\Bless_programmimg.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\obj\Debug\Bless_programmimg.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\obj\Debug\Bless programmimg.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\obj\Debug\Bless programmimg.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\obj\Debug\Bless programmimg.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Bless programmimg\Bless programmimg\obj\Debug\Bless programmimg.pdb

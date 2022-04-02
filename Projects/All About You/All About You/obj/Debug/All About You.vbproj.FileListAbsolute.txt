@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\bin\Debug\All About You.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\bin\Debug\All About You.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\bin\Debug\All About You.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\bin\Debug\All About You.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\obj\Debug\All About You.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\obj\Debug\All_About_You.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\obj\Debug\All_About_You.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\obj\Debug\All About You.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\obj\Debug\All About You.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\obj\Debug\All About You.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\All About You\All About You\obj\Debug\All About You.pdb

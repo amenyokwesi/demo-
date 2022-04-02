@@ -1,0 +1,5 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.xml

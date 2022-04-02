@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\bin\Debug\Multiples of three.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\bin\Debug\Multiples of three.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\bin\Debug\Multiples of three.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\bin\Debug\Multiples of three.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\obj\Debug\Multiples_of_three.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\obj\Debug\Multiples_of_three.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\obj\Debug\Multiples of three.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\obj\Debug\Multiples of three.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\obj\Debug\Multiples of three.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\obj\Debug\Multiples of three.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\Multiples of three\Multiples of three\obj\Debug\Multiples of three.vbprojResolveAssemblyReference.cache

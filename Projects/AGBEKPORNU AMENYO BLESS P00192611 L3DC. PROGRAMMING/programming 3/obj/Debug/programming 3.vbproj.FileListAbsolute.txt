@@ -1,0 +1,24 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\bin\Debug\programming 3.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\obj\Debug\programming 3.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\obj\Debug\programming_3.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\obj\Debug\programming_3.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\obj\Debug\programming 3.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\obj\Debug\programming 3.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\bin\Debug\programming 3.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\bin\Debug\programming 3.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\bin\Debug\programming 3.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\obj\Debug\programming 3.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\obj\Debug\programming 3.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\programming 3\programming 3\obj\Debug\programming_3.Form2.resources
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\bin\Debug\programming 3.exe.config
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\obj\Debug\programming 3.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\obj\Debug\programming 3.xml
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\obj\Debug\programming 3.pdb
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\obj\Debug\programming 3.vbprojResolveAssemblyReference.cache
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\obj\Debug\programming_3.Form1.resources
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\obj\Debug\programming_3.Form2.resources
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\obj\Debug\programming_3.Resources.resources
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\obj\Debug\programming 3.vbproj.GenerateResource.Cache
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\bin\Debug\programming 3.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\bin\Debug\programming 3.pdb
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\AGBEKPORNU AMENYO BLESS P00192611 L3DC. PROGRAMMING\programming 3\bin\Debug\programming 3.xml

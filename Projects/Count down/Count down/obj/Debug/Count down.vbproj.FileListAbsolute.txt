@@ -1,0 +1,10 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\bin\Debug\Count down.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\bin\Debug\Count down.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\bin\Debug\Count down.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\bin\Debug\Count down.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\obj\Debug\Count_down.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\obj\Debug\Count_down.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\obj\Debug\Count down.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\obj\Debug\Count down.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\obj\Debug\Count down.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Count down\Count down\obj\Debug\Count down.pdb

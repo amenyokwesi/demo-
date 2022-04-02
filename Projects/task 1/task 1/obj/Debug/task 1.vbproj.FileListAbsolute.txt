@@ -1,0 +1,5 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\task 1\task 1\bin\Debug\task 1.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\task 1\task 1\obj\Debug\task 1.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\task 1\task 1\obj\Debug\task_1.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\task 1\task 1\obj\Debug\task_1.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\task 1\task 1\obj\Debug\task 1.vbproj.GenerateResource.Cache

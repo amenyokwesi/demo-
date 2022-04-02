@@ -1,0 +1,12 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\bin\Debug\programing project two.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\bin\Debug\programing project two.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\bin\Debug\programing project two.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\bin\Debug\programing project two.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\obj\Debug\programing project two.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\obj\Debug\programing_project_two.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\obj\Debug\programing_project_two.Form2.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\obj\Debug\programing_project_two.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\obj\Debug\programing project two.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\obj\Debug\programing project two.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\obj\Debug\programing project two.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\programing project two\programing project two\obj\Debug\programing project two.pdb

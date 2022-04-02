@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase Printer 1\phrase Printer 1\bin\Debug\phrase Printer 1.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase Printer 1\phrase Printer 1\obj\Debug\phrase_Printer_1.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase Printer 1\phrase Printer 1\obj\Debug\phrase Printer 1.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\phrase Printer 1\phrase Printer 1\obj\Debug\phrase Printer 1.xml
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\phrase Printer 1\phrase Printer 1\obj\Debug\phrase Printer 1.vbprojResolveAssemblyReference.cache
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\phrase Printer 1\phrase Printer 1\bin\Debug\phrase Printer 1.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\phrase Printer 1\phrase Printer 1\bin\Debug\phrase Printer 1.pdb
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\phrase Printer 1\phrase Printer 1\bin\Debug\phrase Printer 1.xml
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\phrase Printer 1\phrase Printer 1\obj\Debug\phrase_Printer_1.form1.resources
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\phrase Printer 1\phrase Printer 1\obj\Debug\phrase Printer 1.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\phrase Printer 1\phrase Printer 1\obj\Debug\phrase Printer 1.pdb

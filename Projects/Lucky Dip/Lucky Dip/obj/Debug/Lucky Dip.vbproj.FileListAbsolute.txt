@@ -1,0 +1,10 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\bin\Debug\Lucky Dip.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\bin\Debug\Lucky Dip.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\bin\Debug\Lucky Dip.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\bin\Debug\Lucky Dip.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\obj\Debug\Lucky_Dip.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\obj\Debug\Lucky_Dip.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\obj\Debug\Lucky Dip.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\obj\Debug\Lucky Dip.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\obj\Debug\Lucky Dip.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\Lucky Dip\Lucky Dip\obj\Debug\Lucky Dip.pdb

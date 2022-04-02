@@ -1,0 +1,11 @@
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\bin\Debug\shonky11 computers.exe.config
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\bin\Debug\shonky11 computers.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\bin\Debug\shonky11 computers.pdb
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\bin\Debug\shonky11 computers.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\obj\Debug\shonky11 computers.vbprojResolveAssemblyReference.cache
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\obj\Debug\shonky11_computers.Form1.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\obj\Debug\shonky11_computers.Resources.resources
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\obj\Debug\shonky11 computers.vbproj.GenerateResource.Cache
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\obj\Debug\shonky11 computers.exe
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\obj\Debug\shonky11 computers.xml
+c:\users\realtime it\documents\visual studio 2015\Projects\shonky11 computers\shonky11 computers\obj\Debug\shonky11 computers.pdb

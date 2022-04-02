@@ -1,0 +1,26 @@
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\bin\Debug\IF ELSE.exe.config
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\bin\Debug\IF ELSE.exe
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\bin\Debug\IF ELSE.pdb
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\bin\Debug\IF ELSE.xml
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\obj\Debug\IF ELSE.vbprojResolveAssemblyReference.cache
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\obj\Debug\IF_ELSE.Form1.resources
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\obj\Debug\IF_ELSE.Resources.resources
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\obj\Debug\IF ELSE.vbproj.GenerateResource.Cache
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\obj\Debug\IF ELSE.exe
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\obj\Debug\IF ELSE.xml
+c:\users\gye-nyame-pc\documents\visual studio 2015\Projects\IF ELSE\IF ELSE\obj\Debug\IF ELSE.pdb
+F:\IF ELSE\IF ELSE\bin\Debug\IF ELSE.exe.config
+F:\IF ELSE\IF ELSE\obj\Debug\IF ELSE.exe
+F:\IF ELSE\IF ELSE\obj\Debug\IF ELSE.xml
+F:\IF ELSE\IF ELSE\obj\Debug\IF ELSE.pdb
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\bin\Debug\IF ELSE.exe.config
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\obj\Debug\IF ELSE.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\obj\Debug\IF ELSE.xml
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\obj\Debug\IF ELSE.pdb
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\obj\Debug\IF ELSE.vbprojResolveAssemblyReference.cache
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\obj\Debug\IF_ELSE.Form1.resources
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\obj\Debug\IF_ELSE.Resources.resources
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\obj\Debug\IF ELSE.vbproj.GenerateResource.Cache
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\bin\Debug\IF ELSE.exe
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\bin\Debug\IF ELSE.pdb
+C:\Users\Realtime IT\Documents\Visual Studio 2015\Projects\IF ELSE 1\IF ELSE\bin\Debug\IF ELSE.xml
